@@ -14,7 +14,7 @@ Textures are never edited. They are only cropped to their artwork, or shown by r
 
 ## Use it
 
-1. Open `index.html` in a browser.
+1. Open `(https://wlsgunzz.github.io/Chest-GUI-Generator/)` in a browser.
 2. Load a Java pack: click **Load pack** or **Load folder**, or drop a zip or folder on the page. If the zip holds several packs, pick one.
 3. Check the fit in the preview and adjust anything that looks off.
 4. Set the real glyph character for each GUI on the **Trigger** tab if the pack did not assign one.
