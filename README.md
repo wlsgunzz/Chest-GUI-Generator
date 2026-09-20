@@ -19,6 +19,9 @@ Textures are never edited. They are only cropped to their artwork, or shown by r
 3. Check the fit in the preview and adjust anything that looks off.
 4. Set the real glyph character for each GUI on the **Trigger** tab if the pack did not assign one.
 5. Click **Export pack**.
+6. GUI Gen in use - https://github.com/user-attachments/assets/dd27bd1b-af6f-49ff-9064-978fdcd7eb49
+
+
 
 ## Notes
 
