@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/308a1769-094e-42e1-ae38-2854c6cd1232
 # Chest GUI Editor
 
 Convert Java resource pack chest GUIs into Bedrock chest screen overlays, and fit them to the chest slots. One HTML file, runs in your browser, nothing is uploaded.
@@ -19,7 +21,10 @@ Textures are never edited. They are only cropped to their artwork, or shown by r
 3. Check the fit in the preview and adjust anything that looks off.
 4. Set the real glyph character for each GUI on the **Trigger** tab if the pack did not assign one.
 5. Click **Export pack**.
-6. GUI Gen in use - https://github.com/user-attachments/assets/dd27bd1b-af6f-49ff-9064-978fdcd7eb49
+6. GUI Gen in use - https://github.com/user-attachments/assets/3080567d-9147-439f-8405-3d6e57192c38
+
+
+
 
 
 
