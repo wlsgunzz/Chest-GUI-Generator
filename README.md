@@ -14,7 +14,7 @@ Convert Java resource pack chest GUIs into Bedrock chest screen overlays, and fi
 
 Textures are never edited. They are only cropped to their artwork, or shown by region.
 
-## Use it
+## Use it (sorry for not inclduing in video but u can disable the slot grids at the top hotbar)
 
 1. Open [GUI Gen](https://wlsgunzz.github.io/Chest-GUI-Generator/) in a browser.
 2. Load a Java pack: click **Load pack** or **Load folder**, or drop a zip or folder on the page. If the zip holds several packs, pick one.
