@@ -1,6 +1,6 @@
 
 https://github.com/user-attachments/assets/308a1769-094e-42e1-ae38-2854c6cd1232
-# Chest GUI Editor
+# Chest GUI Editor (THIS STILL NEEDS FIXING IM PLANNNG A BIG OVERHAUL OF THIS)
 
 Convert Java resource pack chest GUIs into Bedrock chest screen overlays, and fit them to the chest slots. One HTML file, runs in your browser, nothing is uploaded.
 
